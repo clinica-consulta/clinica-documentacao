@@ -53,7 +53,7 @@
 | **Instituição** | SENAI |
 | **Repositório** | `clinica-consulta/clinica-documentacao` (documentação geral do sistema) |
 | **Repositórios do sistema** | [`clinica-consulta/clinica-backend`](https://github.com/clinica-consulta/clinica-backend) (API) · [`clinica-consulta/clinica-frontend`](https://github.com/clinica-consulta/clinica-frontend) (interface web) |
-| **Versões documentadas** | API v1.13.0 · Interface v1.10.2 |
+| **Versões documentadas** | API v1.14.0 · Interface v1.11.0 |
 
 **Equipe**
 
@@ -497,7 +497,7 @@ O sistema está publicado e em uso, com os quatro perfis integrados. Principais 
 | Publicação e e-mail | [1.3.1](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.3.1) a [1.5.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.5.0): publicação no Render e e-mail pelo Brevo | [1.1.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.1.0) a [1.2.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.2.0): revisão geral, busca, relatórios e documentos médicos |
 | Corpo clínico e pagamentos | [1.6.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.6.0) e [1.7.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.7.0): 12 especialidades, atestados e pagamento pelo Stripe | [1.3.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.3.0): pagamento dentro do site |
 | Ciclo da consulta | [1.8.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.8.0) a [1.11.1](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.11.1): ações únicas, encerramento automático, confirmação pelo paciente, carteirinha, e-mails completos e horários ocupados para todos | [1.4.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.4.0) a [1.7.1](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.7.1): telas do ciclo da consulta, consultas por dia e data digitável |
-| Lista de espera e acabamento | [1.12.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.12.0) e [1.13.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.13.0): exclusão completa, lista de espera por horário, aviso antes da consulta e e-mails com a logo | [1.8.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.8.0) a [1.10.2](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.10.2): exclusão, animação ao rolar, lista de espera e responsividade completa |
+| Lista de espera e acabamento | [1.12.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.12.0) a [1.14.0](https://github.com/clinica-consulta/clinica-backend/releases/tag/v1.14.0): exclusão completa, lista de espera por horário, aviso antes da consulta, e-mails com a logo e nova tentativa de Pix ou boleto não pago | [1.8.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.8.0) a [1.11.0](https://github.com/clinica-consulta/clinica-frontend/releases/tag/v1.11.0): exclusão, animação ao rolar, lista de espera, responsividade completa e pagamento no balcão |
 
 O histórico completo está nas releases de cada repositório: [API](https://github.com/clinica-consulta/clinica-backend/releases) e [interface](https://github.com/clinica-consulta/clinica-frontend/releases).
 
