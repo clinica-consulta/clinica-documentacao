@@ -626,6 +626,8 @@ gitGraph
 | [Wiki deste repositório](https://github.com/clinica-consulta/clinica-documentacao/wiki) | Guias de uso por perfil, casos de uso detalhados, regras explicadas e perguntas frequentes |
 | [README da API](https://github.com/clinica-consulta/clinica-backend#readme) e [wiki da API](https://github.com/clinica-consulta/clinica-backend/wiki) | Instalação, endpoints, modelagem, pagamentos, e-mails, rotinas e implantação |
 | [README da interface](https://github.com/clinica-consulta/clinica-frontend#readme) e [wiki da interface](https://github.com/clinica-consulta/clinica-frontend/wiki) | Telas por perfil, fluxos, componentes, responsividade e implantação |
+| [Vídeo: fluxo da consulta](apresentacao/fluxo-da-consulta-2x.mp4) | Demonstração do fluxo completo da consulta no sistema (reproduzido em velocidade 2x) |
+| [Slides do pitch](apresentacao/pitch-gestao-de-consultas.pdf) | Apresentação (pitch) do projeto Gestão de Consultas |
 
 ---
 
